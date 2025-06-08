@@ -37,7 +37,7 @@ mkdir -p dockerr/crafty-data
 
 # Clone repository only if it doesn't exist
 if [ ! -d "dockerr/git-file/.git" ]; then
-    git clone https://github.com/vosoxrotp89/minxRr02 dockerr/git-file
+    git clone https://github.com/u10het/netproj001 dockerr/git-file
 else
     echo "✅ Repository already exists in git-file. Skipping clone."
 fi

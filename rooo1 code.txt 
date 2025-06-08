@@ -1,0 +1,15 @@
+{
+    "username": "admin",
+    "password": "y32s1OHsAD!u$%$9rJua!2d0QuBXNfy2Aq5A%7rMk0EVP^E@uqWtdGaiIjs3$SCF",
+    "info": "This is NOT where you change your password. This file is only a means to give you a default password."
+}
+/gamerule playersSleepingPercentage
+147.185.221.26:57939 server ip
+
+./playit
+-6014583786199688885
+
+while true; do echo "Preventing idle timeout"; sleep 40; done
+
+{ /workspaces/mincrT2/dockerr/start.sh } < start
+{ /workspaces/mincrT2/dockerr/stop.sh  } < stop
